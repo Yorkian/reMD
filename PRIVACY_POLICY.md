@@ -2,7 +2,7 @@
 
 **reMD - Markdown Renderer Chrome Extension**
 
-*Last Updated: January 2025*
+*Last Updated: January 2026*
 
 ---
 
@@ -96,4 +96,4 @@ If you have any questions or concerns about this privacy policy or the reMD exte
 
 ---
 
-*© 2025 reMD. All rights reserved.*
+*© 2026 reMD. All rights reserved.*

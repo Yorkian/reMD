@@ -29,23 +29,7 @@ A Chrome extension that detects and renders Markdown content displayed as plain 
 
 ## Installation
 
-### From Source (Developer Mode)
-
-1. Download or clone this repository
-
-2. Open Chrome and navigate to the extensions page:
-   - Enter `chrome://extensions/` in the address bar
-   - Or go to Menu → More Tools → Extensions
-
-3. Enable "Developer mode" in the top right corner
-
-4. Click "Load unpacked"
-
-5. Select the `reMD` folder from this project
-
-6. Done! You'll see the reMD icon in your browser toolbar
-
-7. Or install from the [Chrome Web Store](https://chromewebstore.google.com/detail/remd-markdown-renderer/gnfdcineaggoebhfgpghaicknbbonnil)
+### From [Chrome Web Store](https://chromewebstore.google.com/detail/remd-markdown-renderer/gnfdcineaggoebhfgpghaicknbbonnil)
 
 ## Usage
 

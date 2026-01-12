@@ -45,6 +45,8 @@ A Chrome extension that detects and renders Markdown content displayed as plain 
 
 6. Done! You'll see the reMD icon in your browser toolbar
 
+7. Or install from the [Chrome Web Store](https://chromewebstore.google.com/detail/remd-markdown-renderer/gnfdcineaggoebhfgpghaicknbbonnil)
+
 ## Usage
 
 1. **Scan & Render**: Click the reMD icon in the toolbar, then click "Scan & Render"
